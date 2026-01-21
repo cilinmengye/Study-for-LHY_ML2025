@@ -1,0 +1,4 @@
+lora_model/
+unsloth_compiled_cache/
+outputs/
+.venv/

@@ -1,0 +1,1 @@
+Neuro-sama 的最初 Live2D 模型是使用 VTube Studio 中的 "Vtuber" 角色。

@@ -1,0 +1,1 @@
+根據Google Colab的訂閱制，若要使用A100高級GPU，您需要订阅「Colabs Pro+」。

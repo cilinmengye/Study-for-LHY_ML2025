@@ -1,0 +1,1 @@
+在作業系統中，避免要錯過時限來完成任務的排程演算法稱為「即期式」或是"Real-time Scheduling"(RTS)。這類型的手段會根據每個程序或者進驅動器所需執行完畢時間以及優先順序，確保在指定時限內完成任務。  然而，在一般的作業系統中，更常見的是使用「非即期式」或是"Non-Real-time Scheduling"(NRTS) 的排程演算法，如FCFS（First-Come, First-Served）、SJF(Shortest Job Fist)、SRTN(Sporadic Server Task Model)，等。這類型的手段不一定能夠確保任務在指定時限內完成，但可以根據系統的負載和優先順序來調整執行次數。  值得注意的是，實際上許多現代作業系统都會結合即期式與非 即 期 式 的排程演算法，以滿足不同類型任務需求。
